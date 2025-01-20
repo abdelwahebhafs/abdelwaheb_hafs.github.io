@@ -12,7 +12,7 @@ title                    : "Abdelwaheb's Homepage"
 title_separator          : "-"
 name                     : &name "Abdelwaheb HAFS"
 description              : &description "personal description"
-url                      : https://ahafs.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://abdelwaheb_hafs.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "abdelwahebhafs/abdelwaheb_hafs.github.io"
 
